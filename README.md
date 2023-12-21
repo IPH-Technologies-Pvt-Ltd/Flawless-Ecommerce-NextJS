@@ -1,12 +1,12 @@
-## Flawless E-Commerce Website
+# Flawless E-Commerce Website
 
 Welcome to Flawless, a sleek and modern e-commerce website built using Next.js and TypeScript. This project leverages the power of Next.js for server-side rendering, routing, and efficient development, while TypeScript ensures a robust and statically typed codebase. The styling is crafted with the help of Tailwind CSS, providing a clean and responsive user interface.
 
-# Demo
+## Live Demo
 
 Check out the live demo of the Flawless E-Commerce Website [Demo](https://flawless-ecommerce-next-js-nine.vercel.app/)
 
-# Features
+## Features
 
 - Homepage showcases a curated selection of products, presented with an appealing layout designed to catch your eye.
 - About page,gives insights into the purpose and vision of the website 
@@ -14,12 +14,12 @@ Check out the live demo of the Flawless E-Commerce Website [Demo](https://flawle
 - Dive deeper into your favorite products by accessing detailed information through our product details feature.
 - The shopping cart functionality allows you to easily add, remove, and adjust the quantity of items, providing a convenient and personalized experience. 
 
-# Technologies Used
+## Technologies Used
 - [Next.js](https://nextjs.org/docs)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
-# Getting Started
+## Getting Started
 
 1. Clone the repository:
 git clone https://github.com/IPH-Technologies-Pvt-Ltd/Flawless-ecommerce-nextJS.git
@@ -28,7 +28,7 @@ cd flawless-e-commerce
 3. Start the development server: npm run dev
 4. Your dashboard app should now be accessible at http://localhost:3000.
 
-# Contribute
+## Contribute
 
 To contribute to this project please follow these steps:
 1. Fork the repository.
@@ -37,12 +37,12 @@ To contribute to this project please follow these steps:
 4. Push your changes to your fork: git push origin feature/your-feature-name.
 5. Create a pull request to the main repository.
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Happy shopping on Flawless E-Commerce! 🛍️
 
-# Screenshot
+## Screenshot
 
 For a quick overview and demonstration, watch the video demo:
 
