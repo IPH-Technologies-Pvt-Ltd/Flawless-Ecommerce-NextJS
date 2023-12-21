@@ -42,7 +42,7 @@ To contribute to this project please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 Happy shopping on Flawless E-Commerce! 🛍️
 
-# Video Demo
+# Screenshot
 
 For a quick overview and demonstration, watch the video demo:
 
