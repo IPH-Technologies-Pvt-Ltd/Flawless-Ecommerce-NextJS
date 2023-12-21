@@ -2,14 +2,14 @@
 
 Welcome to Flawless, a sleek and modern e-commerce website built using Next.js and TypeScript. This project leverages the power of Next.js for server-side rendering, routing, and efficient development, while TypeScript ensures a robust and statically typed codebase. The styling is crafted with the help of Tailwind CSS, providing a clean and responsive user interface.
 
-## Live Demo
+## Preview
 
-Check out the live demo of the Flawless E-Commerce Website [Demo](https://flawless-ecommerce-next-js-nine.vercel.app/)
+Check out the [link](https://flawless-ecommerce-next-js-nine.vercel.app/) for live preview of Flawless E-Commerce. 
 
 ## Features
 
 - Homepage showcases a curated selection of products, presented with an appealing layout designed to catch your eye.
-- About page,gives insights into the purpose and vision of the website 
+- About page,gives insights into the purpose and vision of the website.
 - Navigate effortlessly through our inventory with our intuitive category filter, ensuring a seamless and enjoyable shopping journey.
 - Dive deeper into your favorite products by accessing detailed information through our product details feature.
 - The shopping cart functionality allows you to easily add, remove, and adjust the quantity of items, providing a convenient and personalized experience. 
